@@ -1,3 +1,5 @@
+
+# Unregister endpoint (must be after app and activities are defined)
 """
 High School Management System API
 
